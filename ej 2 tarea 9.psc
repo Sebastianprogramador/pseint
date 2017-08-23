@@ -13,7 +13,7 @@ definir num,acu como entero;
 	
 		
 	FinMientras
-	Escribir "[INGRESE 0 PARA terminar EL PROGRAMA]";
+	Escribir "[INGRESE 0 PARA terminar EL PROGRAMAss]";
 	Escribir ""; 
 	
 	escribir "resultado de la suma es :",acu;
